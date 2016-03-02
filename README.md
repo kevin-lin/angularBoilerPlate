@@ -14,3 +14,5 @@ start the node server with
 ```
 node node_modules/http-server/bin/http-server
 ```
+
+browse to `localhost:8080`
